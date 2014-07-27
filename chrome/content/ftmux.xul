@@ -1,0 +1,6 @@
+<?xml version="1.0"?>
+<!DOCTYPE overlay SYSTEM "chrome://dlScheduler/locale/translations.dtd">
+<overlay id="ftmux" xmlns="http://www.mozilla.org/keymaster/gatekeeper/there.is.only.xul">
+    <script src="ftmux.js"></script>
+</overlay>
+

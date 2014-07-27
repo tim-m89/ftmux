@@ -1,0 +1,25 @@
+<?xml version="1.0"?>
+<RDF xmlns="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+     xmlns:em="http://www.mozilla.org/2004/em-rdf#">
+
+  <Description about="urn:mozilla:install-manifest">
+    <em:id>fixtmux@ext.net</em:id>
+    <em:version>0.1</em:version>
+    <em:type>2</em:type>
+    <em:targetApplication>
+      <Description>
+        <em:id>{ec8030f7-c20a-464f-9b0e-13a3a9e97384}</em:id>
+        <em:minVersion>30.0</em:minVersion>
+        <em:maxVersion>31.*</em:maxVersion>
+      </Description>
+    </em:targetApplication>
+   
+    <em:name>Fix trademe UX</em:name>
+    <em:description>Fixes trademe user experience by showing thumbnails where they are normally hidden</em:description>
+    <em:creator>Tim Matthews</em:creator>
+    <em:file>
+        <em:locale>locale/en-US/</em:locale>
+    </em:file>
+    </Description>      
+</RDF>
+

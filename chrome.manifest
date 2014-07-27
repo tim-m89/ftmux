@@ -1,0 +1,6 @@
+content     ftmux    chrome/content/
+
+locale	ftmux	en-US	chrome/locale/en-US/
+
+overlay chrome://browser/content/browser.xul chrome://ftmux/content/ftmux.xul
+
